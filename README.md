@@ -13,31 +13,31 @@ Todos os metodos que devem ser alterados tem o comentario com palavra CALC.
 ![img-SpaceTime](http://www.sciweavers.org/upload/Tex2Img_1610403406/render.png)
 
 ### Formulas importantes para implementação:
-![img-TimeDifferential](http://www.sciweavers.org/upload/Tex2Img_1610217692/render.png)
+![img-TimeDifferential](https://i.imgur.com/rNaErKZ.png)
 
-![img-SpaceTime](http://www.sciweavers.org/upload/Tex2Img_1610217583/render.png)
+![img-SpaceTime](https://i.imgur.com/WbIC1mC.png)
 
-![img-SynchronizePulsars](http://www.sciweavers.org/upload/Tex2Img_1610216603/render.png)
+![img-SynchronizePulsars](https://i.imgur.com/xD2pHYl.png)
 
 
 ### SolarSystemPosition: 
 se( timeDifferential < 0 ) {
 
-![img-SynchronizePulsars](http://www.sciweavers.org/upload/Tex2Img_1610402695/render.png)
+![if](https://i.imgur.com/iX8F01q.png)
 
 }se não {
 
-![img-SynchronizePulsars](http://www.sciweavers.org/upload/Tex2Img_1610402897/render.png)
+![else](https://i.imgur.com/GZXDh6n.png)
 
 }
 
 
 ### GalaxyPosition:
-![img-SynchronizePulsars](http://www.sciweavers.org/upload/Tex2Img_1610403099/render.png)
+![img-SynchronizePulsars](https://i.imgur.com/QitPPL6.png)
 
 
 ### UniversePosition:
-![img-SynchronizePulsars](http://www.sciweavers.org/upload/Tex2Img_1610403236/render.png)
+![img-universePosition](https://i.imgur.com/Nc6jfVI.png)
 
 ## O que é o SOLID?
 O SOLID é um acrônimo para 5 princípios utilizados na programação orientada a objetos apresentado inicialmente pelo Robert “Uncle Bob” Martin em um artigo publicado no ano 2000. Dito isso, segue abaixo a lista dos princípios:
